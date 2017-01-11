@@ -5,7 +5,7 @@ title: Quizzes
 
 Quiz answer keys will be posted here:
 
-* Quiz 1: Jan-17 : [Study guide 1](/study guides/Biol 415 Quiz1 study outline.docx). Answer key
+* Quiz 1: Jan-17 : [Study guide 1](/study_guides/Biol_415_Quiz1_study_outline.pdf). Answer key
 * Quiz 2: Jan-31 : [Study guide 2](). Answer key
 * Quiz 3: Feb-14 : [Study guide 3](). Answer key
 * Quiz 4: Mar-09 : [Study guide 4](). Answer key
