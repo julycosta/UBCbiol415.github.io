@@ -10,4 +10,4 @@ Quiz answer keys will be posted here:
 * Quiz 3: Feb-14 : [Study guide 3](/study_guides/Biol415_Quiz3_study_outline.pdf). [Answer key](/study_guides/quiz_3_key.pdf).
 * Quiz 4: Mar-07 : [Study guide 4](/study_guides/Biol415_Quiz4_study_outline.pdf). Answer key
 * Quiz 5: Mar-21 : [Study guide 5](). Answer key
-* Quiz 6: Mar-29 : [Study guide 6](). Answer key
+* Quiz 6: Mar-30 : [Study guide 6](). Answer key
