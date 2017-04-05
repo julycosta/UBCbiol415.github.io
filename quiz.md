@@ -5,10 +5,10 @@ title: Quizzes
 
 Quiz answer keys will be posted here:
 
-* Quiz 1: Jan-17 : [Study guide 1](/study_guides/Biol_415_Quiz1_study_outline.pdf). [Answer key](/study_guides/quiz_1_key.pdf).
+* Quiz 1: Jan-17 : <a href="/study_guides/Biol_415_Quiz1_study_outline.pdf">Study guide 1</a><a href="/study_guides/quiz_1_key.pdf">Answer key</a>.
 * Quiz 2: Jan-31 : [Study guide 2](/study_guides/Biol415_Quiz2_study_outline.pdf). [Answer key](/study_guides/quiz_2_key.pdf).
 * Quiz 3: Feb-14 : [Study guide 3](/study_guides/Biol415_Quiz3_study_outline.pdf). [Answer key](/study_guides/quiz_3_key.pdf).
 * Quiz 4: Mar-07 : [Study guide 4](/study_guides/Biol415_Quiz4_study_outline.pdf). [Answer key](/study_guides/quiz_4_key.pdf).
 * Quiz 5: Mar-21 : [Study guide 5](/study_guides/Biol415_Quiz5_study_outline.pdf). [Answer key](/study_guides/quiz_5_key.pdf).
 * Quiz 6: Mar-30 : [Study guide 6](/study_guides/Biol415_Quiz6_study_outline.pdf). [Answer key](/study_guides/quiz_6_key.pdf).
-<a href="/study_guides/Biol_415_Quiz1_study_outline.pdf">test</a>
+
